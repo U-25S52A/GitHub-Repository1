@@ -1,0 +1,7 @@
+list of grocery:
+- Hand Sanitizer
+- Soap
+- Chips
+- Bottle of water
+- Juices
+- Chewing gums
