@@ -1,3 +1,4 @@
-another file was created in branch-01
+this line has also been replaced from branch-02 local VSC
 
 this file has been modified in VSC (locally)
+this line has been added from branch-02 local VSC
