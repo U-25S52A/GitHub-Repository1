@@ -2,3 +2,4 @@ this line has also been replaced from branch-02 local VSC
 
 this file has been modified in VSC (locally)
 this line has been added from branch-02 local VSC
+another line has been added from branch-02 VSC
